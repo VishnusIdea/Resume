@@ -93,25 +93,26 @@
   background-color:rgb(0, 157, 254);
  }
 
+ body{
+  background-color: rgb(252, 252, 252);
 
+}
 
 .name{
-  font-size: 4em;
+  font-size: 3em;
   font-weight: revert;
-  margin-left: 168px;
-  padding: 60px;
+  margin-left: 98px;
 }
 
 .subname{
-  margin-left: 259px;
-  margin-top: -55px;
-color: rgb(0, 157, 254);
+  margin-left: 11px;
+  margin-top: -87px;
+  color: rgb(0, 157, 254);
 }
 
 .img{
-height: 225px;
-width: 204px;
-margin-top: -235px;
+  height: 137px;
+width: 146px;
 }
 
 }
