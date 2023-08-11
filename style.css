@@ -50,10 +50,20 @@
   color: rgb(0, 157, 254);
 }
 
-.img{
+.wallpaper{
   height: 225px;
   width: 204px;
   margin-top: -235px;
+  overflow: hidden;
+}
+
+.wallpaper img {
+  width: 98%;
+  height: 98%;
+  transition: scale 400ms;
+}
+.wallpaper:hover img {
+  scale: 120%;
 }
 
 
